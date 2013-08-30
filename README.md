@@ -1,0 +1,1 @@
+This is the repository for the pre-course ruby learning with tealeaf academy.
